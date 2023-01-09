@@ -1,4 +1,5 @@
 // Destructured the prop
+
 function CardProp({ title, button, image }) {
   return (
     <div className="card" style={{ width: "18rem" }}>

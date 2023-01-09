@@ -4,6 +4,8 @@ import Feature from "./components/Feature";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
 
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 function App() {
   return (
     <>
